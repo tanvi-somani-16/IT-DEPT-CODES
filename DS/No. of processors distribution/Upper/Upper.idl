@@ -1,0 +1,5 @@
+module U{
+    interface Upper{
+        string convert(in string s);
+    };
+};
