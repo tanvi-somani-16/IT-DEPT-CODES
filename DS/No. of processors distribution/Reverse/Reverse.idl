@@ -1,0 +1,5 @@
+module R{
+    interface Reverse{
+        string rev(in string s);
+    };
+};
